@@ -24,7 +24,7 @@ Experiment with the code and if possible please try to cite the paper using:
 
 ## Citation
 
-If you use [Cardiac Diseas Code](https://github.com/manojkaushik/Cardiac-disease-using-phonocardiogram-signal) code in your research, we would appreciate a citation to both the original paper:
+If you use [Cardiac Diseas Code](https://github.com/manojkaushik/Cardiac-disease-using-phonocardiogram-signal) code in your research, we would appreciate a citation to the original paper:
 
 
 "*Khan, Juwairiya Siraj, Manoj Kaushik, Anushka Chaurasia, Malay Kishore Dutta, and Radim Burget. "Cardi-Net: A deep neural network for classification of cardiac disease using phonocardiogram signal." Computer Methods and Programs in Biomedicine 219 (2022): 106727.*"
